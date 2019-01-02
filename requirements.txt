@@ -2,3 +2,5 @@ Flask
 Flask-RESTful
 xmltodict
 uwsgi
+gunicorn
+google-cloud-storage
